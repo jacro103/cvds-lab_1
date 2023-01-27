@@ -1,3 +1,2 @@
-Hola soy **sebastian** _blanco_
+Hola soy **jose** _correa_rodriguez
 
-![click](img.png)
