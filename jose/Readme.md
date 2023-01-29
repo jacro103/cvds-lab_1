@@ -17,8 +17,9 @@
 * Ver peliculas y series
 * Leer
 
-
-
-```
+### PLAYING GIT:
 ![click](img.png)
 ![click](imge.png)
+
+```
+
