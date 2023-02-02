@@ -60,3 +60,6 @@ int main() {
     return 0;
 }
 ```
+## **Ejercicos GIT**
+![click](principal.png)
+![click](remota.png)
