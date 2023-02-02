@@ -19,7 +19,7 @@
 * Ver peliculas y series
 * Leer
 
-![click](img3.png)
+![click](imgd.png)
 
 Desde pequeño siempre me ha interesado  ver peliculas o series  de accion, y tambien peliculas o series basadas en libros, debido esto, tuve una obsecion  de que iva a pasar despues , por ello  comenze a  a leer libros.
 
